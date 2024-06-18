@@ -24,5 +24,9 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/LuoRogers/bw_docs' }
     ]
-  }
+  },
+  outDir: '../public',
+  base: '/bw_docs/',
+
 })
+
