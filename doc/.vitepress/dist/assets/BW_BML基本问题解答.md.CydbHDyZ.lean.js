@@ -1,0 +1,1 @@
+import{_ as t,c as p,o as n,a1 as r}from"./chunks/framework.BYNa9HDH.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"BW&BML基本问题解答.md","filePath":"BW&BML基本问题解答.md"}'),e={name:"BW&BML基本问题解答.md"},s=r("",89),o=[s];function l(g,a,d,i,c,b){return n(),p("div",null,o)}const _=t(e,[["render",l]]);export{h as __pageData,_ as default};
