@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 查看文档
-      link: /BW&BML基本问题解答
+      link: ./BW&BML基本问题解答
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: ./api-examples
 
 features:
   - title: Feature A
