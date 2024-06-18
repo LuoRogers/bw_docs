@@ -26,7 +26,7 @@ export default defineConfig({
     ]
   },
   outDir: '../public',
-  base: '/bw_docs/',
+  // base: '/bw_docs/',
 
 })
 
