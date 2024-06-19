@@ -4,6 +4,23 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "魔都线下ACGN交流群-资讯站",
   description: "A VitePress Site",
+  head: [
+    // ... 其他部分的配置，比如
+    
+    [
+      'script',
+      {},
+      `
+      window._hmt = window._hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?6c8d03e471577e47b7bb25b8b3693b05";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+      `,
+    ],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
