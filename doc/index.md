@@ -7,8 +7,8 @@ hero:
   text: "Bilibili World Docs"
   tagline: 这是一个关于ACGN的资讯站
   image:
-      src: https://img.picui.cn/free/2024/06/19/66723eb829a9e.jpg
-      alt: bilibiliworld
+      src: https://img.picui.cn/free/2024/06/19/66725f416cc18.jpg
+      alt: BilibiliWorld
   actions:
     - theme: brand
       text: 查看文档
