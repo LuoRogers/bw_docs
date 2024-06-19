@@ -32,7 +32,7 @@ export default defineConfig({
       {
         text: '目录',
         items: [
-          { text: '快速指南', link: './BW&BML基本问题解答' },
+          { text: 'BW & BML初快速指南', link: './BW&BML基本问题解答' },
           { text: '上海未来大型活动一览', link: './上海未来大型活动一览' }
         ]
       }
