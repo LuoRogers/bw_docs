@@ -19,7 +19,7 @@
     <p style="margin:10px">魔都ACGN①群、魔都ACGN②群、魔都ACGN③群、魔都ACGN④群小伙伴们</p>
     <p style="margin:10px">@蓝熠、@Rogers</p>
     <p style="margin:10px">@沐雪、@诗酒落英</p>
-  </font></b>
+  </b></font>
 </div>
 
 
