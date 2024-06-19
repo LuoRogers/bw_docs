@@ -23,10 +23,14 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/LuoRogers/bw_docs' }
-    ]
+    ],
+    editLink: {
+      pattern: 'https://github.com/LuoRogers/bw_docs/edit/main/docs/:path'
+    }
   },
   outDir: '../public',
   // base: '/bw_docs/',
+  lastUpdated: true,
 
 })
 
