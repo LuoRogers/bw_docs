@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "魔都线下ACGN交流群-资讯站",
-  description: "A VitePress Site",
+  description: "这是一个关于ACGN的资讯站",
   head: [
     // ... 其他部分的配置，比如
     
