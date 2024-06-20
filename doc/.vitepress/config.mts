@@ -6,6 +6,12 @@ export default defineConfig({
   description: "A VitePress Site",
   head: [
     // ... 其他部分的配置，比如
+    ['script', {
+      async: 'async',
+      // 记得替换成你的真正的 src
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2550471884756231',
+      crossorigin: 'anonymous',
+    }],
     
     [
       'script',
