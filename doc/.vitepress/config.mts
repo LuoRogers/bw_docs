@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang:"zh-CN",
   title: "魔都线下ACGN交流群-资讯站",
   description: "这是一个关于ACGN的资讯站",
   head: [
@@ -48,8 +49,8 @@ export default defineConfig({
     },
     // 页脚
     footer: {
-      message: `本网站采用<a class="link-light" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
-        知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>`,
+      message: `本网站采用<a class="link-light" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans">
+        知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (CC BY-NC-ND 4.0) </a>`,
       copyright: 'Copyright © 2023-2024 魔都ACGN交流群管理组'
     },
     outlineTitle: '戳这里快速跳转~'
