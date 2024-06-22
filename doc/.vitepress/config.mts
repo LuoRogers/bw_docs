@@ -42,7 +42,7 @@ export default defineConfig({
     },
     // 链接
     socialLinks: [
-      { icon: 'gitlab', link: 'https://gitlab.com/shacgn/bw_docs' }
+      { icon: 'github', link: 'https://gitlab.com/shacgn/bw_docs' }
     ],
     editLink: {
       pattern: 'https://gitlab.com/shacgn/bw_docs/edit/main/docs/:path'
