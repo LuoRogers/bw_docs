@@ -42,10 +42,10 @@ export default defineConfig({
     },
     // 链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/LuoRogers/bw_docs' }
+      { icon: 'gitlab', link: 'https://gitlab.com/shacgn/bw_docs' }
     ],
     editLink: {
-      pattern: 'https://github.com/LuoRogers/bw_docs/edit/main/docs/:path'
+      pattern: 'https://gitlab.com/shacgn/bw_docs/edit/main/docs/:path'
     },
     // 页脚
     footer: {
