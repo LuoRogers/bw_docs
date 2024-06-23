@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "魔都线下ACGN交流群-资讯站"
-  text: "Bilibili World Docs"
+  text: "Shanghai anime Docs"
   tagline: 这是一个关于ACGN的资讯站
   image:
       src: https://img.picui.cn/free/2024/06/19/66725f416cc18.jpg
@@ -13,6 +13,12 @@ hero:
     - theme: brand
       text: 查看文档
       link: ./BW&BML基本问题解答
+
+    - theme:brand
+      text: ChinaJoy
+      link:./ChinaJoy
+
+
 #     - theme: alt
 #       text: API Examples
 #       link: ./api-examples
