@@ -8,6 +8,9 @@ importers:
 
   .:
     devDependencies:
+      vite:
+        specifier: ^5.3.1
+        version: 5.3.1
       vitepress:
         specifier: ^1.2.3
         version: 1.2.3(@algolia/client-search@4.23.3)(postcss@8.4.38)(search-insights@2.14.0)

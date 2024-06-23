@@ -5,6 +5,7 @@ export default defineConfig({
   lang:"zh-CN",
   title: "魔都线下ACGN交流群-资讯站",
   description: "这是一个关于ACGN的资讯站",
+  srcDir:"./",
   head: [
     // ... 其他部分的配置，比如
     
