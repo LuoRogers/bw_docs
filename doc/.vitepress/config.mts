@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+import AutoSidebarPlugin from 'vitepress-auto-sidebar-plugin'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang:"zh-CN",
@@ -58,6 +58,15 @@ export default defineConfig({
   outDir: '../public',
   // base: '/bw_docs/',
   lastUpdated: true,
+
+  vite:{
+    plugins: [
+      AutoSidebarPlugin({
+        // 如果不指定 `srcDir`，则默认使用 `vitepress` 的 `srcDir`
+        srcDir: './doc',
+      }),
+    ],
+  }
 
 })
 
