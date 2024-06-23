@@ -16,8 +16,8 @@ hero:
     - theme: brand
       text: ChinaJoy
       link: ./2024ChinaJoy门票说明
-   - theme: brand
-     text:【陆续增加中...】
+    - theme: brand
+      text:【陆续增加中...】
     
 
 
