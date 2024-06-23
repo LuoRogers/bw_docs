@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "魔都线下ACGN交流群-资讯站"
-  text: "Anime Mecca Docs"
+  text: "Shanghai anime Docs"
   tagline: 这是一个关于ACGN的资讯站
   image:
       src: https://img.picui.cn/free/2024/06/19/66725f416cc18.jpg
