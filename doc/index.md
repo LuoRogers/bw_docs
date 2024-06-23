@@ -11,7 +11,7 @@ hero:
       alt: BilibiliWorld
   actions:
     - theme: brand
-      text: 查看文档
+      text: BW&BML
       link: ./BW&BML基本问题解答
     - theme: brand
       text: ChinaJoy
