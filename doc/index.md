@@ -13,10 +13,9 @@ hero:
     - theme: brand
       text: 查看文档
       link: ./BW&BML基本问题解答
-  actions:
     - theme:brand
       text: ChinaJoy
-      link:./ChinaJoy
+    
 
 
 #     - theme: alt
