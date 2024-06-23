@@ -13,6 +13,12 @@ hero:
     - theme: brand
       text: 查看文档
       link: ./BW&BML基本问题解答
+
+    - theme:brand
+      text: ChinaJoy
+      link:./ChinaJoy
+
+
 #     - theme: alt
 #       text: API Examples
 #       link: ./api-examples
