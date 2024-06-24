@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: BW&BML
-      link: ./guide/exhibit/BW&BML基本问题解答
+      link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
       text: ChinaJoy
-      link: ./guide/exhibit/2024ChinaJoy门票说明
+      link: ./guide/exhibit/ChinaJoyBasicInfo
     - theme: alt
       text: 【陆续增加中...】
     

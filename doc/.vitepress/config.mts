@@ -29,14 +29,14 @@ export default defineConfig({
       {
         text: '展览',
         items: [
-          { text: 'BW & BML快速指南', link: '/guide/exhibit/BW&BML基本问题解答' },
-          { text: 'ChinaJoy', link: '/guide/exhibit/2024ChinaJoy门票说明' }
+          { text: 'BW快速指南', link: '/guide/exhibit/BilibiliWorldBasicInfo' },
+          { text: 'ChinaJoy', link: '/guide/exhibit/ChinaJoyBasicInfo' }
         ]
       },
       {
         text: '演唱会',
         items: [
-          { text: 'BML待完善', link: '/guide/concert/BML' },
+          { text: 'BML快速指南', link: '/guide/concert/BilibiliMacroLinkBasicInfo' },
           
         ]
       },
@@ -55,7 +55,7 @@ export default defineConfig({
       {
         text: '目录',
         items: [
-          { text: 'BW & BML快速指南', link: './BW&BML基本问题解答' },
+          { text: 'BW & BML快速指南', link: './BilibiliWorldBasicInfo' },
           { text: '上海未来大型活动一览', link: './上海未来大型活动一览' }
         ]
       }
