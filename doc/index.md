@@ -1,7 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
+groupTitle: 文档
 hero:
   name: "魔都线下ACGN交流群-资讯站"
   text: "Shanghai anime Docs"
@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: BW&BML
-      link: ./文档/展览/BW&BML基本问题解答
+      link: ./guide/exhibit/BW&BML基本问题解答
     - theme: brand
       text: ChinaJoy
-      link: ./文档/展览/2024ChinaJoy门票说明
+      link: ./guide/exhibit/2024ChinaJoy门票说明
     - theme: alt
       text: 【陆续增加中...】
     
@@ -33,4 +33,3 @@ features:
   - title: 实时更新，一手掌握
     details: 一手资源，实时更新活动信息，让你永远快人一步！
 ---
-
