@@ -29,21 +29,21 @@ export default defineConfig({
       {
         text: '展览',
         items: [
-          { text: 'BW & BML快速指南', link: './文档/展览/BW&BML基本问题解答' },
-          { text: 'ChinaJoy', link: './文档/展览/2024ChinaJoy门票说明' }
+          { text: 'BW & BML快速指南', link: './BW&BML基本问题解答' },
+          { text: 'ChinaJoy', link: './2024ChinaJoy门票说明' }
         ]
       },
       {
         text: '演唱会',
         items: [
-          { text: 'BML待完善', link: './文档/演唱会/BML' },
+          { text: 'BML待完善', link: './BML' },
           
         ]
       },
       {
         text: '其它',
         items: [
-          { text: '上海大型活动一览', link: './文档/其他/上海未来大型活动一览.' },
+          { text: '上海大型活动一览', link: './上海未来大型活动一览.' },
           
         ]
       }
