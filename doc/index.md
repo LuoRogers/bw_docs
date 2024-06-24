@@ -11,8 +11,11 @@ hero:
       alt: BilibiliWorld
   actions:
     - theme: brand
-      text: BW&BML
+      text: BW2024
       link: ./guide/exhibit/BilibiliWorldBasicInfo
+    - theme: brand
+      text: BML2024
+      link: ./guide/exhibit/BilibiliMacroLinkBasicInfo
     - theme: brand
       text: ChinaJoy
       link: ./guide/exhibit/ChinaJoyBasicInfo
