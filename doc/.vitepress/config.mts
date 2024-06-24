@@ -43,7 +43,7 @@ export default defineConfig({
       {
         text: '其它',
         items: [
-          { text: '上海大型活动一览', link: './文档/其他/上海未来大型活动一览' },
+          { text: '上海大型活动一览', link: './文档/其他/上海未来大型活动一览.' },
           
         ]
       }
