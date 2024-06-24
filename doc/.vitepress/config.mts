@@ -36,7 +36,7 @@ export default defineConfig({
       {
         text: '演唱会',
         items: [
-          { text: 'BML待完善', link: '/guide/exhibit/BML' },
+          { text: 'BML待完善', link: '/guide/concert/BML' },
           
         ]
       },
