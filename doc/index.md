@@ -15,7 +15,7 @@ hero:
       link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
       text: BML2024
-      link: ./guide/exhibit/BilibiliMacroLinkBasicInfo
+      link: ./guide/concert/BilibiliMacroLinkBasicInfo
     - theme: brand
       text: ChinaJoy
       link: ./guide/exhibit/ChinaJoyBasicInfo
