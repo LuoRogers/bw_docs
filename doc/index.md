@@ -11,8 +11,8 @@ hero:
       alt: ChianJoy
   actions:
    - theme: brand
-      text: ChinaJoy
-      link: ./guide/exhibit/ChinaJoyBasicInfo
+     text: ChinaJoy
+     link: ./guide/exhibit/ChinaJoyBasicInfo
     - theme: alt
     - theme: brand
       text: BW2024
