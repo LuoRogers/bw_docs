@@ -10,9 +10,9 @@ hero:
       src: https://img.picui.cn/free/2024/07/18/6698a7de8b290.png
       alt: ChianJoy
   actions:
-   - theme: brand
-     text: ChinaJoy
-     link: ./guide/exhibit/ChinaJoyBasicInfo
+    - theme: brand
+      text: ChinaJoy
+      link: ./guide/exhibit/ChinaJoyBasicInfo
     - theme: alt
     - theme: brand
       text: BW2024
