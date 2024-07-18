@@ -8,7 +8,7 @@ hero:
   tagline: 这是一个关于ACGN的资讯站
   image:
       src: https://img.picui.cn/free/2024/07/18/6698a7de8b290.png
-      alt: ChianJoy
+      alt: ChinaJoy
   actions:
     - theme: brand
       text: ChinaJoy
