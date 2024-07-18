@@ -7,19 +7,19 @@ hero:
   text: "Shanghai anime Docs"
   tagline: 这是一个关于ACGN的资讯站
   image:
-      src: https://img.picui.cn/free/2024/06/19/66725f416cc18.jpg
-      alt: BilibiliWorld
+      src: https://img.picui.cn/free/2024/07/18/6698a7de8b290.png
+      alt: ChianJoy
   actions:
+   - theme: brand
+      text: ChinaJoy
+      link: ./guide/exhibit/ChinaJoyBasicInfo
+    - theme: alt
     - theme: brand
       text: BW2024
       link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
       text: BML2024
       link: ./guide/concert/BilibiliMacroLinkBasicInfo
-    - theme: brand
-      text: ChinaJoy
-      link: ./guide/exhibit/ChinaJoyBasicInfo
-    - theme: alt
       text: 【陆续增加中...】
     
 
