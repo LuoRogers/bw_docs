@@ -11,7 +11,7 @@ hero:
       alt: ChinaJoy
   actions:
     - theme: brand
-      text: ChinaJOY
+      text: ChinaJoy
       link: ./guide/exhibit/ChinaJoyBasicInfo
     - theme: alt
     - theme: brand
