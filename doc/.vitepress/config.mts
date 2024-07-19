@@ -43,7 +43,7 @@ export default defineConfig({
       {
         text: '其它',
         items: [
-          { text: '上海w未来大型活动一览', link: '/guide/others/OverviewOfShanghaiFutureACGNActivities' },
+          { text: '上海未来大型活动一览', link: '/guide/others/OverviewOfShanghaiFutureACGNActivities' },
           
         ]
       }
