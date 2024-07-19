@@ -13,13 +13,13 @@ hero:
     - theme: brand
       text: ChinaJoy
       link: ./guide/exhibit/ChinaJoyBasicInfo
-    - theme: alt
     - theme: brand
       text: BW2024
       link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
       text: BML2024
       link: ./guide/concert/BilibiliMacroLinkBasicInfo
+    - theme: alt
       text: 【陆续增加中...】
     
 
