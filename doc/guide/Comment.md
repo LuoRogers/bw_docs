@@ -1,6 +1,5 @@
 ---
 comment: true
-index: 3
 ---
 
 # 评论区
