@@ -1,8 +1,4 @@
 ---
-groupTitle: 评论
-hide: true
-collapsed: false
-groupIndex: 2
 comment: true
 ---
 
