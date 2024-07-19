@@ -14,10 +14,10 @@ hero:
       text: ChinaJoy
       link: ./guide/exhibit/ChinaJoyBasicInfo
     - theme: brand
-      text: BW2024
+      text: BW2025（敬请期待）
       link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
-      text: BML2024
+      text: BML2025（敬请期待）
       link: ./guide/concert/BilibiliMacroLinkBasicInfo
     - theme: alt
       text: 【陆续增加中...】
