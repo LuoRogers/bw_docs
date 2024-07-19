@@ -43,7 +43,7 @@ export default defineConfig({
       {
         text: '其它',
         items: [
-          { text: '上海大型活动一览', link: '/guide/others/上海未来大型活动一览' },
+          { text: '上海w未来大型活动一览', link: '/guide/others/OverviewOfShanghaiFutureACGNActivities' },
           
         ]
       }
@@ -56,7 +56,7 @@ export default defineConfig({
         text: '目录',
         items: [
           { text: 'BW & BML快速指南', link: './BilibiliWorldBasicInfo' },
-          { text: '上海未来大型活动一览', link: './上海未来大型活动一览' }
+          { text: '上海未来大型活动一览', link: './OverviewOfShanghaiFutureACGNActivities' }
         ]
       }
     ],
