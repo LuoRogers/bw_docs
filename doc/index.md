@@ -20,7 +20,7 @@ hero:
       text: BML2025（敬请期待）
       link: ./guide/concert/BilibiliMacroLinkBasicInfo
     - theme: alt
-      text: 【陆续增加中....】
+      text: 【陆续增加中...】
     
 
 
