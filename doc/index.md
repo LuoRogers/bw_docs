@@ -22,8 +22,7 @@ hero:
     - theme: alt
       text: 【陆续增加中...】
     
-
-
+警告⚠️ <Badge type="danger" text="未经证实的消息不要转发。但是各位还是请注意安全。不接受陌生人食物。等等" />
 #     - theme: alt
 #       text: API Examples
 #       link: ./api-examples
