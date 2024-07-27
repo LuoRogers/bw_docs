@@ -22,12 +22,14 @@ hero:
     - theme: alt
       text: 【陆续增加中...】
     
-<Badge type="danger" text="未经证实的消息不要转发。但是各位还是请注意安全。不接受陌生人食物。等等" />
+
 #     - theme: alt
 #       text: API Examples
 #       link: ./api-examples
 
 features:
+  - title:警告⚠️
+    details: 未经证实的消息不要转发。但是各位还是请注意安全。不接受陌生人食物。等等
   - title: 本站建立的目的性
     details: 汇聚全网 ACGN 活动资源，打造魔都最全的 ACGN 活动信息平台！
   - title: 精准定位，快速查找
