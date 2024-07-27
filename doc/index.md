@@ -7,7 +7,7 @@ hero:
   text: "Shanghai anime Docs"
   tagline: 这是一个关于ACGN的资讯站
   image:
-      src: https://img.picui.cn/free/2024/07/18/6698a7de8b290.png
+      src: https://sc.nianyufwf.com/shacgn/cj.jpg
       alt: ChinaJoy
   actions:
     - theme: brand
