@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      vditor:
+        specifier: ^3.10.4
+        version: 3.10.4
     devDependencies:
       vite:
         specifier: ^5.3.1
@@ -561,6 +565,9 @@ packages:
     resolution: {integrity: sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==}
     engines: {node: '>=0.10'}
 
+  diff-match-patch@1.0.5:
+    resolution: {integrity: sha512-IayShXAgj/QMXgB0IWmKx+rOPuGMhqm5w6jvFxmVenXKIzRqTAAsbBPT3kWQeGANj3jGgvcvv4yK6SxqYmikgw==}
+
   entities@4.5.0:
     resolution: {integrity: sha512-V0hjH4dGPh9Ao5p0MoRY6BVqtwCjhz6vI5LT8AJ55H+4g9/4vbHx1I54fS0XuclLhDHArPQCiMjDxjaL8fPxhw==}
     engines: {node: '>=0.12'}
@@ -830,6 +837,9 @@ packages:
   urix@0.1.0:
     resolution: {integrity: sha512-Am1ousAhSLBeB9cG/7k7r2R0zj50uDRlZHPGbazid5s9rlF1F/QKYObEKSIunSjIOkJZqwRRLpvewjEkM7pSqg==}
     deprecated: Please see https://github.com/lydell/urix#deprecated
+
+  vditor@3.10.4:
+    resolution: {integrity: sha512-NWaMom0buUvRjOCaK/jKeJEVfZNmfTgblK4+pxBoeTdiCYn5yWokcGYMh9GzHIvt5gy6FiQFc1VQvytIwyeIwA==}
 
   vite@5.3.1:
     resolution: {integrity: sha512-XBmSKRLXLxiaPYamLv3/hnP/KXDai1NDexN0FpkTaZXTfycHvkRHoenpgl/fvuK/kPbB6xAgoyiryAhQNxYmAQ==}
@@ -1397,6 +1407,8 @@ snapshots:
   decode-uri-component@0.2.2:
     optional: true
 
+  diff-match-patch@1.0.5: {}
+
   entities@4.5.0: {}
 
   esbuild@0.21.5:
@@ -1699,6 +1711,10 @@ snapshots:
 
   urix@0.1.0:
     optional: true
+
+  vditor@3.10.4:
+    dependencies:
+      diff-match-patch: 1.0.5
 
   vite@5.3.1(@types/node@20.14.11)(stylus@0.54.8):
     dependencies:

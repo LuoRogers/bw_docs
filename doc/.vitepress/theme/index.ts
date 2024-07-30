@@ -1,10 +1,14 @@
 // .vitepress/theme/index.ts
 import DefaultTheme from 'vitepress/theme';
 import giscusTalk from 'vitepress-plugin-comment-with-giscus';
+import RichTextEditor from '../components/RichTextEditor.vue';
 import { useData, useRoute } from 'vitepress';
 export default {
     extends: DefaultTheme,
-  
+    enhanceApp({ app }) {
+      // 注册全局组件
+      app.component('RichTextEditor', RichTextEditor);
+    },
     setup() {
       // Get frontmatter and route
       const { frontmatter } = useData();
