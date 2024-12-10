@@ -37,7 +37,7 @@ export default defineConfig({
         text: '演唱会',
         items: [
           { text: 'BML快速指南', link: '/guide/concert/BilibiliMacroLinkBasicInfo' },
-          
+          { text: 'トゲナシトゲアリ Live in SHANGHAI', link: '/guide/concert/GirlsBandCryInfo' }
         ]
       },
       {
