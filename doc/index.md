@@ -7,7 +7,7 @@ hero:
   text: "Shanghai anime Docs"
   tagline: 这是一个关于ACGN的资讯站
   image:
-      src: ./mib/gbc2024.1214.png
+      src: ./mib/gbc20241214.png
       alt: Gril Band Cry 无刺有刺演唱会
   actions:
     - theme: brand
