@@ -10,7 +10,7 @@ hero:
       src: /mib/bw2025temporarily.jpeg
       alt: BiliBiliWorLd2025
   actions:
-      - theme: brand
+    - theme: brand
       text: BW2025（即将来临）
       link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
