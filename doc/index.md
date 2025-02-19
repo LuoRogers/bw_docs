@@ -16,8 +16,8 @@ hero:
     - theme: brand
     - theme: brand
       text: ChinaJoy
-    - theme: brand
       link: ./guide/exhibit/ChinaJoyBasicInfo
+    - theme: brand
       text: BML2025（即将来临）
       link: ./guide/concert/BilibiliMacroLinkBasicInfo
     - theme: alt
