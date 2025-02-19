@@ -19,6 +19,9 @@ hero:
     - theme: brand
       text: ChinaJoy
       link: ./guide/exhibit/ChinaJoyBasicInfo
+    - theme: brand
+      text: 2025·闪击日本攻略
+      link: ./guide/others/JP2025
     - theme: alt
       text: 【陆续增加中...】
     
