@@ -14,7 +14,6 @@ hero:
       text: BW2025（即将来临）
       link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
-    - theme: brand
       text: ChinaJoy
       link: ./guide/exhibit/ChinaJoyBasicInfo
     - theme: brand
