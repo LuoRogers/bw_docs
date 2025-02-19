@@ -76,7 +76,7 @@ export default defineConfig({
     footer: {
       message: `本网站采用<a class="link-light" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans">
         知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (CC BY-NC-ND 4.0) </a>`,
-      copyright: 'Copyright © 2023-2024 魔都ACGN交流群管理组'
+      copyright: 'Copyright © 2023-2025 魔都ACGN交流群管理组'
     },
     outlineTitle: '戳这里快速跳转~'
   },
