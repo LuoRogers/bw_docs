@@ -7,17 +7,17 @@ hero:
   text: "Shanghai anime Docs"
   tagline: 这是一个关于ACGN的资讯站
   image:
-      src: /mib/gbc20241214.png
-      alt: Gril Band Cry 无刺有刺演唱会
+      src: /mib/bw2025temporarily.jpeg
+      alt: BiliBiliWorLd2025
   actions:
+      - theme: brand
+      text: BW2025（即将来临）
+      link: ./guide/exhibit/BilibiliWorldBasicInfo
+    - theme: brand
     - theme: brand
       text: ChinaJoy
       link: ./guide/exhibit/ChinaJoyBasicInfo
-    - theme: brand
-      text: BW2025（敬请期待）
-      link: ./guide/exhibit/BilibiliWorldBasicInfo
-    - theme: brand
-      text: BML2025（敬请期待）
+      text: BML2025（即将来临）
       link: ./guide/concert/BilibiliMacroLinkBasicInfo
     - theme: alt
       text: 【陆续增加中...】
