@@ -35,15 +35,6 @@ onMounted(() => {
       input: (value: string) => {
         emit('update:modelValue', value);
       },
-      upload: {
-        url: 'https://s.moe.mba/image/upload.php', // 图片上传接口
-        linkToImgUrl: 'https://s.moe.mba/image/upload.php', // 图片转链接接口（这里可能需要根据实际情况调整）
-        fieldName: 'image', // 上传图片的字段名
-        // accept: 'image/*', // 只允许上传图片
-        error: (msg: string) => {
-          vditorInstance?.tip('上传失败', 1000);
-        },
-      },
     });
   }
 });

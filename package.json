@@ -11,6 +11,7 @@
     "docs:preview": "vitepress preview doc"
   },
   "dependencies": {
+    "@tato30/vue-pdf": "^1.11.3",
     "vditor": "^3.10.4"
   }
 }
