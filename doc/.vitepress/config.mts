@@ -44,6 +44,7 @@ export default defineConfig({
         text: '其它',
         items: [
           { text: '上海未来大型活动一览', link: '/guide/others/OverviewOfShanghaiFutureACGNActivities' },
+          { text: '出国带卡指南', link: '/guide/others/card' },
           { text: '评论区', link: '/guide/Comment' },
           
         ]
