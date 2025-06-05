@@ -11,7 +11,7 @@ hero:
       alt: BiliBiliWorLd2025
   actions:
     - theme: brand
-      text: BW2025（即将来临）
+      text: BW2025
       link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
       text: BML2025（即将来临）
