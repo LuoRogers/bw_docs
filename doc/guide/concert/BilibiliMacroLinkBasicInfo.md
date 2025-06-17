@@ -51,9 +51,9 @@ BML全称BILIBILI MACRO LINK。是由BILIBILI自2013年起创造的大型B站线
 |波次1	|大会员抢先购	|6月22日12点|
 |波次2	|正式开票	|6月22日18点|
 
-![1.png](https://i1.hdslb.com/bfs/openplatform/202506/FssC2avZ1749699263855.jpeg)
-![2.png](https://i0.hdslb.com/bfs/openplatform/202506/xQnRy2Y21749709250474.jpeg)
-![3.png](https://i1.hdslb.com/bfs/openplatform/202406/xjQvXoe41719385681154.jpeg)
+[![pVE5nzj.jpg](https://s21.ax1x.com/2025/06/18/pVE5nzj.jpg)](https://imgse.com/i/pVE5nzj)
+[![pVE5KQs.jpg](https://s21.ax1x.com/2025/06/18/pVE5KQs.jpg)](https://imgse.com/i/pVE5KQs)
+[![pVE5Myn.jpg](https://s21.ax1x.com/2025/06/18/pVE5Myn.jpg)](https://imgse.com/i/pVE5Myn)
 
 ## 3、票价多少，有哪几个票种？
 
