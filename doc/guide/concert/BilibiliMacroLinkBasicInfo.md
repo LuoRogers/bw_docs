@@ -5,7 +5,7 @@ index: 1
 
 # BML 2024 快速指南
 
-**VERSION.20240624**
+**VERSION.v1.2.6**
 
 
 
@@ -27,7 +27,7 @@ index: 1
 
 临近 `BML` 展会举办，各种官方与非官方消息铺天盖地，甚至所谓的 `内部人士`、`保安队长`、`XX我表哥/亲戚`、`叔叔阿姨的私生子`、以及`不知名志愿者招募团` 等各类传言四处流传，给尚未参加过大型漫展的新手小伙伴，甚至一些常年混迹于各地漫展的老司机带来了大量困惑。
 
-鉴于此，在群主[瓜子](https://space.bilibili.com/80667791)的授意下，魔都ACGN管理组起草并收集了目前各个渠道公开且已验证的指南信息，供大家参考。
+鉴于此，在群主[是瓜子酱](https://space.bilibili.com/80667791)的授意下，魔都ACGN管理组起草并收集了目前各个渠道公开且已验证的指南信息，供大家参考。
 
 随着官方逐步公开更多信息，指南中部分内容可能会过时，但请相信，我们共同维护二次元纯洁花园的心愿是坚定的，我们会尽快完善和更新指南。
 
@@ -45,16 +45,14 @@ BML全称BILIBILI MACRO LINK。是由BILIBILI自2013年起创造的大型B站线
 
 ~~历年 `BML` 都会在 `BW` 展会的当天晚上举办，今年依然不例外。开票时间一般为 `BW` 开票日的 `后2天`，具体请关注B站BML制作指挥部，了解最新动态。~~
 
-**2024年BML售票时间已经公布；**
+**2025年BML售票时间已经公布；**
 |波次|	说明	|开票时间|
 | :---: | :---: | :---: |
-|波次1	|大会员抢先购	|6月30日12点|
-|波次2	|正式开票	|6月30日18点|
-波次3	|纪念联票	|7月1日12点|
+|波次1	|大会员抢先购	|6月22日12点|
+|波次2	|正式开票	|6月22日18点|
 
-![1.png](https://i1.hdslb.com/bfs/openplatform/202406/fpi9u9bt1719385681116.jpeg)
-![2.png](https://i0.hdslb.com/bfs/openplatform/202406/QBSEXW1U1719385689267.jpeg)
-![3.png](https://i1.hdslb.com/bfs/openplatform/202406/A9sbFEUG1719385687420.jpeg)
+![1.png](https://i1.hdslb.com/bfs/openplatform/202506/FssC2avZ1749699263855.jpeg)
+![2.png](https://i0.hdslb.com/bfs/openplatform/202506/xQnRy2Y21749709250474.jpeg)
 ![3.png](https://i1.hdslb.com/bfs/openplatform/202406/xjQvXoe41719385681154.jpeg)
 
 ## 3、票价多少，有哪几个票种？
@@ -63,10 +61,10 @@ BML全称BILIBILI MACRO LINK。是由BILIBILI自2013年起创造的大型B站线
 
 <table><tr><th colspan="1"><b>票种</b></th><th colspan="1"><b>价格</b></th><th colspan="1"><b>福利</b></th><th colspan="1"><b>备注</b></th></tr>
 <tr><td colspan="1"><b>S</b></td><td colspan="1">1380元</td><td colspan="1" rowspan="5">BML应援棒、<br>场刊（节目、嘉宾介绍）、<br>可能存在的互动道具（？）</td><td colspan="1"><p>数量极其稀少</p><p>抢到就是赚到</p></td></tr>
-<tr><td colspan="1"><b>A</b></td><td colspan="1">1080元</td><td colspan="1">哇哦，超值的体验！</td></tr>
-<tr><td colspan="1"><b>B</b></td><td colspan="1">780元</td><td colspan="1">感觉还不错~</td></tr>
-<tr><td colspan="1"><b>C</b></td><td colspan="1">480元</td><td colspan="1">我在看什么？</td></tr>
-<tr><td colspan="1"><b>D</b></td><td colspan="1">280元</td><td colspan="1">山顶的朋友，你们好嘛</td></tr>
+<tr><td colspan="1"><b>A</b></td><td colspan="1">1180元</td><td colspan="1">哇哦，超值的体验！</td></tr>
+<tr><td colspan="1"><b>B</b></td><td colspan="1">980元</td><td colspan="1">感觉还不错~</td></tr>
+<tr><td colspan="1"><b>C</b></td><td colspan="1">680元</td><td colspan="1">我在看什么？</td></tr>
+<tr><td colspan="1"><b>D</b></td><td colspan="1">380元</td><td colspan="1">山顶的朋友，你们好嘛</td></tr>
 </table>
 
 
