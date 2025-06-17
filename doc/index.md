@@ -14,7 +14,7 @@ hero:
       text: BW2025
       link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
-      text: BML2025（即将来临）
+      text: BML2025
       link: ./guide/concert/BilibiliMacroLinkBasicInfo
     - theme: brand
       text: ChinaJoy
