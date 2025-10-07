@@ -1,14 +1,13 @@
 import { defineConfig } from 'vitepress'
 import AutoSidebarPlugin from 'vitepress-auto-sidebar-plugin'
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  lang:"zh-CN",
+  lang: "zh-CN",
   title: "魔都线下ACGN交流群-资讯站",
   description: "这是一个关于ACGN的资讯站",
-  srcDir:"./",
+  srcDir: "./",
   head: [
-    // ... 其他部分的配置，比如
-    
     [
       'script',
       {},
@@ -22,10 +21,8 @@ export default defineConfig({
     ],
   ],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      // { text: 'Examples', link: './markdown-examples' }
       {
         text: '展览',
         items: [
@@ -46,13 +43,9 @@ export default defineConfig({
           { text: '上海未来大型活动一览', link: '/guide/others/OverviewOfShanghaiFutureACGNActivities' },
           { text: '出国带卡指南', link: '/guide/others/card' },
           { text: '评论区', link: '/guide/Comment' },
-          
         ]
       }
-      
-      
     ],
-    // 左侧侧边栏
     sidebar: [
       {
         text: '目录',
@@ -62,38 +55,38 @@ export default defineConfig({
         ]
       }
     ],
-    // 搜索
-    search: {
-      provider: 'local'
-    },
-    // 链接
+    search: { provider: 'local' },
     socialLinks: [
       { icon: 'github', link: 'https://gitlab.com/shacgn/bw_docs' }
     ],
     editLink: {
       pattern: 'https://gitlab.com/shacgn/bw_docs/edit/main/doc/:path'
     },
-    // 页脚
     footer: {
       message: `本网站采用<a class="link-light" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans">
-        知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (CC BY-NC-ND 4.0) </a>`,
+        知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (CC BY-NC-ND 4.0)
+      </a>`,
       copyright: 'Copyright © 2023-2025 魔都ACGN交流群管理组'
     },
     outlineTitle: '戳这里快速跳转~'
   },
   outDir: '../public',
-  // base: '/bw_docs/',
   lastUpdated: true,
 
-  vite:{
+  vite: {
     plugins: [
       AutoSidebarPlugin({
-        // 如果不指定 `srcDir`，则默认使用 `vitepress` 的 `srcDir`
         srcDir: './doc',
-        ignoreList:['index.md'],
+        ignoreList: ['index.md'],
       }),
     ],
-  }
 
+    // ✅ 新增部分：防止 SSR 时 pdf.js 报错
+    ssr: {
+      noExternal: ['pdfjs-dist'],
+    },
+    define: {
+      'globalThis.DOMMatrix': 'globalThis.DOMMatrix || class {}',
+    },
+  },
 })
-
