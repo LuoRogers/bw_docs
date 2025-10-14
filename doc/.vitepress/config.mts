@@ -97,16 +97,6 @@ export default defineConfig({
           }
         },
       },
-    ],
-
-    ssr: {
-      // ✅ 防止 pdfjs-dist 被错误外部化
-      noExternal: ['pdfjs-dist'],
-    },
-
-    // ✅ esbuild 只接受 JSON 或标识符
-    define: {
-      'globalThis.DOMMatrix': '({})',
-    },
+    ],  
   },
 })
