@@ -22,6 +22,9 @@ hero:
     - theme: brand
       text: 2025·闪击日本攻略
       link: ./guide/others/JP2025
+    - theme: brand
+      text: 上海游物推荐
+      link: ./guide/others/ShanghaiTravelGuide_Anime
     - theme: alt
       text: 【陆续增加中...】
     
