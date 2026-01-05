@@ -5,7 +5,7 @@
 </template>
   
 <script lang="ts" setup>
-import { ref, onMounted, onBeforeUnmount, watch, defineProps, toRefs } from 'vue';
+import { ref, onMounted, onBeforeUnmount, watch, toRefs } from 'vue';
 import Vditor from 'vditor';
 import 'vditor/dist/index.css';
 
@@ -45,7 +45,7 @@ onBeforeUnmount(() => {
     }
 });
 
-watch(modelValue, (newValue) => {
+watch(modelValue, (newValue:any) => {
     if (vditorInstance && newValue !== vditorInstance.getValue()) {
         vditorInstance.setValue(newValue || '');
     }

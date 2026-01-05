@@ -4,9 +4,10 @@ import giscusTalk from 'vitepress-plugin-comment-with-giscus';
 import RichTextEditor from '../components/RichTextEditor.vue';
 import PdfViewer from '../components/PdfViewer.vue';
 import { useData, useRoute } from 'vitepress';
+import type { EnhanceAppContext } from 'vitepress';
 export default {
     extends: DefaultTheme,
-    enhanceApp({ app }) {
+    enhanceApp({ app }: EnhanceAppContext) {
       // 注册全局组件
       app.component('RichTextEditor', RichTextEditor);
       app.component('PdfViewer', PdfViewer);

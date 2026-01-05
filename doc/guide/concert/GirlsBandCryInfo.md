@@ -22,7 +22,7 @@ index: 2
 
 ## 1. TOGENASHITOGEARI是谁？
 
-![乐队logo](./../../public/mib/togetoge_logo.png)
+![乐队logo](/mib/togetoge_logo.png)
 
 TOGENASHI TOGEARI是《GIRLS BAND CRY》及其衍生作品的登场乐队，同时也是企划下的真实女子乐队。
 
@@ -97,7 +97,7 @@ A：可以。在场馆周边贩售区将设有礼物箱。
 [原文链接](https://weibo.com/2726846733/P45alcDPu)
 ### 商品展示
 请参考附图了解商品详情。
-![](./../../public/mib/togetoge_shop.jpg)
+![](/mib/togetoge_shop.jpg)
 
 ### 物贩开始时间
 - **12月14日/15日**：物贩从中午12:00开始。

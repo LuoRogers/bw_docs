@@ -59,12 +59,15 @@ BML全称BILIBILI MACRO LINK。是由BILIBILI自2013年起创造的大型B站线
 
 **BML在结束了十年的梅奔演出生涯后，回归淳朴，今年将在上海国家会展中心EH虹馆举办。本说明参考2020 BML VR场举办经验，并结合2024年虹馆近几场演唱会作出解答。**
 
-<table><tr><th colspan="1"><b>票种</b></th><th colspan="1"><b>价格</b></th><th colspan="1"><b>福利</b></th><th colspan="1"><b>备注</b></th></tr>
+<table>
+<tbody>
+<tr><th colspan="1"><b>票种</b></th><th colspan="1"><b>价格</b></th><th colspan="1"><b>福利</b></th><th colspan="1"><b>备注</b></th></tr>
 <tr><td colspan="1"><b>S</b></td><td colspan="1">1380元</td><td colspan="1" rowspan="5">BML应援棒、<br>场刊（节目、嘉宾介绍）、<br>可能存在的互动道具（？）</td><td colspan="1"><p>数量极其稀少</p><p>抢到就是赚到</p></td></tr>
 <tr><td colspan="1"><b>A</b></td><td colspan="1">1180元</td><td colspan="1">哇哦，超值的体验！</td></tr>
 <tr><td colspan="1"><b>B</b></td><td colspan="1">980元</td><td colspan="1">感觉还不错~</td></tr>
 <tr><td colspan="1"><b>C</b></td><td colspan="1">680元</td><td colspan="1">我在看什么？</td></tr>
 <tr><td colspan="1"><b>D</b></td><td colspan="1">380元</td><td colspan="1">山顶的朋友，你们好嘛</td></tr>
+</tbody>
 </table>
 
 

@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@tato30/vue-pdf": "^1.11.3",
-    "vditor": "^3.10.4"
+    "pdfjs-dist": "^5.4.449",
+    "vditor": "^3.10.4",
+    "vue": "^3.5.26"
   }
 }

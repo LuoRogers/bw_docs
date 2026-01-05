@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import AutoSidebarPlugin from 'vitepress-auto-sidebar-plugin'
 
+
 export default defineConfig({
   lang: "zh-CN",
   title: "魔都线下ACGN交流群-资讯站",
@@ -42,6 +43,7 @@ export default defineConfig({
         items: [
           { text: '上海未来大型活动一览', link: '/guide/others/OverviewOfShanghaiFutureACGNActivities' },
           { text: '出国带卡指南', link: '/guide/others/card' },
+          { text: 'PDF预览组件演示', link: '/guide/others/PdfDemo' },
           { text: '评论区', link: '/guide/Comment' },
         ]
       }
@@ -85,18 +87,7 @@ export default defineConfig({
       AutoSidebarPlugin({
         srcDir: './doc',
         ignoreList: ['index.md'],
-      }),
-
-      // ✅ 构建时为 Node SSR 环境补上 DOMMatrix，防止 ReferenceError
-      {
-        name: 'mock-dommatrix-plugin',
-        apply: 'build',
-        configResolved() {
-          if (typeof globalThis.DOMMatrix === 'undefined') {
-            globalThis.DOMMatrix = class {}
-          }
-        },
-      },
-    ],  
+      })     
+    ]
   },
 })
