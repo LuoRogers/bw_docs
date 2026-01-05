@@ -87,7 +87,7 @@ export default defineConfig({
       AutoSidebarPlugin({
         srcDir: './doc',
         ignoreList: ['index.md'],
-      })     
+      })
     ]
   },
 })
