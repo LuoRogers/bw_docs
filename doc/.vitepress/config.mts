@@ -66,7 +66,7 @@ export default defineConfig({
     ],
 
     editLink: {
-      pattern: 'https://gitlab.com/shacgn/bw_docs/edit/main/doc/:path'
+      pattern: 'https://github.com/LuoRogers/bw_docs/edit/main/doc/:path'
     },
 
     footer: {
