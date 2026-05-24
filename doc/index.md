@@ -11,10 +11,10 @@ hero:
       alt: BiliBiliWorLd2025
   actions:
     - theme: brand
-      text: BW2025
+      text: BW2026
       link: ./guide/exhibit/BilibiliWorldBasicInfo
     - theme: brand
-      text: BML2025
+      text: BML2026
       link: ./guide/concert/BilibiliMacroLinkBasicInfo
     - theme: brand
       text: ChinaJoy
